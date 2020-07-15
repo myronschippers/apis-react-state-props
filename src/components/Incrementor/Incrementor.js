@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+// let VALUE = 3;
 
 class Incrementor extends Component {
   constructor(props) {
